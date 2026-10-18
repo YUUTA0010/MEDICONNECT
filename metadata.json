@@ -1,0 +1,8 @@
+{
+  "name": "MediConnect",
+  "description": "Real-time medicine availability checker, substitute finder, and delivery system connecting patients with nearby pharmacies.",
+  "requestFramePermissions": [
+    "geolocation",
+    "camera"
+  ]
+}
